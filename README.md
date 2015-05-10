@@ -1,2 +1,2 @@
-# gti_test
-git learning test
+hello world
+你好，世界！
